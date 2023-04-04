@@ -1,6 +1,7 @@
 # Booster - fast and secure initramfs generator
 
 ![Booster initramfs generator](docs/booster.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falexandrevicenzi%2Fbooster.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falexandrevicenzi%2Fbooster?ref=badge_shield)
 
 Initramfs is a specially crafted small root filesystem that mounted at the early stages of Linux OS boot process.
 This initramfs among other things is responsible for unlocking encrypted partitions and mounting it as a root filesystem.
@@ -74,3 +75,6 @@ Initial version of booster borrowed a lot of ideas from the distri's initramfs g
 
 ### Licence
 See [license](LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falexandrevicenzi%2Fbooster.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falexandrevicenzi%2Fbooster?ref=badge_large)
